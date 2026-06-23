@@ -61,7 +61,7 @@ Understand what colocation, partial rendering, and the root layout are.
 Navigating Between Pages
 In the previous chapter, you created the dashboard layout and pages. Now, let's add some links to allow users to navigate between the dashboard routes.
 
-In this chapter...
+In this chapter..
 
 Here are the topics we'll cover
 
