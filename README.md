@@ -56,6 +56,21 @@ Create a nested layout that can be shared between multiple dashboard pages.
 
 Understand what colocation, partial rendering, and the root layout are.
 
+## Chapter 5
+
+Navigating Between Pages
+In the previous chapter, you created the dashboard layout and pages. Now, let's add some links to allow users to navigate between the dashboard routes.
+
+In this chapter...
+
+Here are the topics we'll cover
+
+How to use the next/link component.
+
+How to show an active link with the usePathname() hook.
+
+How navigation works in Next.js.
+
 ## Somethings to NOTE
 
 - /app: Contains all the routes, components, and logic for your application, this is where you'll be mostly working from.
