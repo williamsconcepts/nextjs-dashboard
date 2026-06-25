@@ -71,6 +71,34 @@ How to show an active link with the usePathname() hook.
 
 How navigation works in Next.js.
 
+
+
+
+## Chapter 6
+
+Setting Up Your Database
+
+
+## Chapter 7
+
+Fetching Data
+Now that you've created and seeded your database, let's discuss the different ways you can fetch data for your application, and build out your dashboard overview page.
+
+In this chapter...
+
+Here are the topics we'll cover
+
+Learn about some approaches to fetching data: APIs, ORMs, SQL, etc.
+
+How Server Components can help you access back-end resources more securely.
+
+What network waterfalls are.
+
+How to implement parallel data fetching using a JavaScript Pattern.
+
+
+Note: you should not query your database directly when fetching data on the client as this would expose your database secrets.
+
 ## Somethings to NOTE
 
 - /app: Contains all the routes, components, and logic for your application, this is where you'll be mostly working from.
