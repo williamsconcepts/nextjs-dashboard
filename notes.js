@@ -17,4 +17,13 @@
  * >>> one advantage of using React Server Components to fetch data?
  * They allow you to query the database directly from the server without an additional API layer.
  * 
+ * 
+ * 
+ */
+
+
+/**
+ * 
+ * What is streaming?
+Streaming is a data transfer technique that allows you to break down a route into smaller "chunks" and progressively stream them from the server to the client as they become ready.
  */

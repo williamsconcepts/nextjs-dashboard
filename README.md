@@ -99,6 +99,47 @@ How to implement parallel data fetching using a JavaScript Pattern.
 
 Note: you should not query your database directly when fetching data on the client as this would expose your database secrets.
 
+
+## Chapter 8
+
+Static and Dynamic Rendering
+In the previous chapter, you fetched data for the Dashboard Overview page. However, we briefly discussed two limitations of the current setup:
+
+The data requests are creating an unintentional waterfall.
+The dashboard is static, so any data updates will not be reflected on your application.
+In this chapter...
+
+Here are the topics we'll cover
+
+What static rendering is and how it can improve your application's performance.
+
+What dynamic rendering is and when to use it.
+
+Different approaches to make your dashboard dynamic.
+
+Simulate a slow data fetch to see what happens.
+
+## Chapter 9
+
+Streaming
+
+Let's look at how you can improve the user experience when there are slow data requests.
+
+In this chapter...
+
+Here are the topics we'll cover
+
+What streaming is and when you might use it.
+
+How to implement streaming with loading.tsx and Suspense.
+
+What loading skeletons are.
+
+What Next.js Route Groups are, and when you might use them.
+
+Where to place React Suspense boundaries in your application.
+
+
 ## Somethings to NOTE
 
 - /app: Contains all the routes, components, and logic for your application, this is where you'll be mostly working from.
