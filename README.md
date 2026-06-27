@@ -139,6 +139,20 @@ What Next.js Route Groups are, and when you might use them.
 
 Where to place React Suspense boundaries in your application.
 
+## Chapter 10
+
+Adding Search and Pagination
+
+Now let's move on to the /invoices page, and learn how to add search and pagination.
+
+In this chapter...
+
+Here are the topics we'll cover
+
+Learn how to use the Next.js APIs: useSearchParams, usePathname, and useRouter.
+
+Implement search and pagination using URL search params.
+
 
 ## Somethings to NOTE
 

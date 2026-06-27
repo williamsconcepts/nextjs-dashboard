@@ -27,3 +27,25 @@
  * What is streaming?
 Streaming is a data transfer technique that allows you to break down a route into smaller "chunks" and progressively stream them from the server to the client as they become ready.
  */
+
+/**
+ * Debouncing
+ * 
+ * Debouncing is a programming practice that limits the rate at which a function can fire. In our case, you only want to query the database when the user has stopped typing.
+
+How Debouncing Works:
+
+Trigger Event: When an event that should be debounced (like a keystroke in the search box) occurs, a timer starts.
+Wait: If a new event occurs before the timer expires, the timer is reset.
+Execution: If the timer reaches the end of its countdown, the debounced function is executed.
+ */
+
+/**
+ * I just implemented search and pagination using URL search params and Next.js APIs.
+ * To summarize, in this chapter:
+
+You've handled search and pagination with URL search parameters instead of client state.
+You've fetched data on the server.
+You're using the useRouter router hook for smoother, client-side transitions.
+These patterns are different from what you may be used to when working with client-side React, but hopefully, you now better understand the benefits of using URL search params and lifting this state to the server.
+ */
