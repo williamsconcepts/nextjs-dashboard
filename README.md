@@ -188,6 +188,19 @@ How to use the special error.tsx file to catch errors in your route segments, an
 
 How to use the notFound function and not-found file to handle 404 errors (for resources that don’t exist).
 
+
+## Chapter 13
+
+Improving Accessibility
+In the previous chapter, we looked at how to catch errors (including 404 errors) and display a fallback to the user. However, we still need to discuss another piece of the puzzle: form validation. Let's see how to implement server-side validation with Server Actions, and how you can show form errors using React's useActionState hook - while keeping accessibility in mind!
+
+How to use eslint-plugin-jsx-a11y with Next.js to implement accessibility best practices.
+
+How to implement server-side form validation.
+
+How to use the React useActionState hook to handle form errors, and display them to the user.
+
+
 ## Somethings to NOTE
 
 - /app: Contains all the routes, components, and logic for your application, this is where you'll be mostly working from.
