@@ -201,6 +201,25 @@ How to implement server-side form validation.
 How to use the React useActionState hook to handle form errors, and display them to the user.
 
 
+## Chapter 14
+
+Adding Authentication
+In the previous chapter, you finished building the invoices routes by adding form validation and improving accessibility. In this chapter, you'll be adding authentication to your dashboard.
+
+In this chapter...
+
+Here are the topics we'll cover
+
+What is authentication.
+
+
+How to add authentication to your app using NextAuth.js.
+
+How to use Proxy to redirect users and protect your routes.
+
+
+How to use React's useActionState to handle pending states and form errors.
+
 ## Somethings to NOTE
 
 - /app: Contains all the routes, components, and logic for your application, this is where you'll be mostly working from.

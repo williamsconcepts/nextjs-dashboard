@@ -49,3 +49,16 @@ You've fetched data on the server.
 You're using the useRouter router hook for smoother, client-side transitions.
 These patterns are different from what you may be used to when working with client-side React, but hopefully, you now better understand the benefits of using URL search params and lifting this state to the server.
  */
+
+/**
+ * Authentication vs. Authorization
+ * 
+In web development, authentication and authorization serve different roles:
+
+ * Authentication is about making sure the user is who they say they are. You're proving your identity with something you have like a username and password.
+
+ * Authorization is the next step. Once a user's identity is confirmed, authorization decides what parts of the application they are allowed to use.
+
+So, authentication checks who you are, and authorization determines what you can do or access in the application.
+ * 
+ */
